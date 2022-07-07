@@ -1,0 +1,50 @@
+
+    body{
+background-image: url('images/woods.jpg');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+color: aqua;
+    }
+    form{
+       
+    
+    }
+    .spacer{
+        padding-right: 50px; 
+        border: solid salmon;
+        border-radius: 35px;
+        padding-bottom: 180px;
+        margin-top: 50px;
+        margin-left: 210px;
+    }
+footer{
+  background-color: black;
+  padding-inline-start: 30px;
+  color:blue;
+}
+
+.navbar{
+  
+    background-color: #f4511e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: normal;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+    
+      
+}
+
+a{ 
+    text-decoration:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 25px;
+    word-spacing: normal;
+    padding-inline: 20px;
+    
+}
+
+
+  

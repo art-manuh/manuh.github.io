@@ -1,0 +1,42 @@
+
+body{
+    align-content: flex-end;
+ background-image:url('images/walpaper.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+.btn{
+    margin-bottom: 10px;
+}
+
+a{ 
+    text-decoration:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: white;
+    font-size: 25px;
+    word-spacing: normal;
+    padding-inline: 20px;
+    
+}
+footer{
+  background-color: black;
+  padding-inline-start: 30px;
+  color:blue;
+}
+
+.navbar{
+  
+    background-color: #f4511e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: normal;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+      
+}
+
+
+

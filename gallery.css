@@ -1,0 +1,33 @@
+img{
+    width: 450px;
+    height: 300px;
+}
+
+.navbar{
+  
+    background-color:g #f4511e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: normal;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+      
+}
+footer{
+  background-color: black;
+  padding-inline-start: 30px;
+  color:blue;
+}
+
+a{ 
+    text-decoration:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: white;
+    font-size: 25px;
+    word-spacing: normal;
+    padding-inline: 20px;
+    
+}
+

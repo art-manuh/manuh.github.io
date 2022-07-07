@@ -1,0 +1,17 @@
+body{
+    background-color:aqua;
+}
+img{
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+form{
+    background-color: brown;
+}
+footer{
+  background-color: black;
+  padding-inline-start: 30px;
+  color:blue;
+}
